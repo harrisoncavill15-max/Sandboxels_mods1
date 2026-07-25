@@ -1,3 +1,5 @@
+alert("My mod loaded!");
+
 elements.test_element = {
     color: "#ff0000",
     behavior: behaviors.POWDER,
